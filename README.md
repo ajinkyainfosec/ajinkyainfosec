@@ -102,7 +102,7 @@ class AjinkyaBhosale:
 ### 🔐 [Host-Based Intrusion Detection System (HIDS)](https://github.com/ajinkyainfosec/Host-based-intrusion-detection)
 > Python-based web application for monitoring system files, logs, and processes with **95% detection rate**
 
-**Tech Stack:** `Python` `Flask` `SHA-256` `Gmail API` `HTML/CSS`
+**Tech Stack:** `Python` `Flask` `SHA-256` `real-time alerts` `HTML/CSS`
 
 **Key Features:**
 - ✅ Real-time process monitoring
@@ -196,35 +196,9 @@ class AjinkyaBhosale:
 
 </div>
 
----
 
-## 💼 Experience Highlights
 
-```yaml
-Experience:
-  - Role: Security Researcher
-    Focus:
-      - Penetration Testing
-      - Vulnerability Assessment
-      - Security Tool Development
-      - Threat Analysis
-    
-  - Role: Full-Stack Developer
-    Focus:
-      - Secure Web Applications
-      - RESTful API Development
-      - Database Design & Optimization
-      - Cloud Integration
-    
-  - Role: SIEM Specialist
-    Focus:
-      - Log Analysis & Correlation
-      - Threat Detection Rules
-      - Security Incident Response
-      - Compliance Monitoring
-```
 
----
 
 ## 🎯 Current Learning Path
 

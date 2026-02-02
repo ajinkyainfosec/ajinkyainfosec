@@ -102,7 +102,7 @@ class AjinkyaBhosale:
 ### 🔐 [Host-Based Intrusion Detection System (HIDS)](https://github.com/ajinkyainfosec/Host-based-intrusion-detection)
 > Python-based web application for monitoring system files, logs, and processes with **95% detection rate**
 
-**Tech Stack:** `Python` `Flask` `SHA-256` `real-time alerts` `HTML/CSS`
+**Tech Stack:** `Python` `Flask` `SHA-256` `Gmail API` `HTML/CSS`
 
 **Key Features:**
 - ✅ Real-time process monitoring
@@ -165,11 +165,11 @@ class AjinkyaBhosale:
 
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ajinkyainfosec&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF88&icon_color=00FF88&text_color=FFFFFF)
+  <img src="https://github-readme-stats.vercel.app/api?username=ajinkyainfosec&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF88&icon_color=00FF88&text_color=FFFFFF" alt="GitHub Stats" />
   
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajinkyainfosec&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF88&text_color=FFFFFF)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajinkyainfosec&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF88&text_color=FFFFFF" alt="Top Languages" />
   
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ajinkyainfosec&theme=radical&hide_border=true&background=0D1117&ring=00FF88&fire=00FF88&currStreakLabel=00FF88)
+  <img src="https://streak-stats.demolab.com/?user=ajinkyainfosec&theme=radical&hide_border=true&background=0D1117&ring=00FF88&fire=00FF88&currStreakLabel=00FF88" alt="GitHub Streak" />
 
 </div>
 
@@ -196,9 +196,35 @@ class AjinkyaBhosale:
 
 </div>
 
+---
 
+## 💼 Experience Highlights
 
+```yaml
+Experience:
+  - Role: Security Researcher
+    Focus:
+      - Penetration Testing
+      - Vulnerability Assessment
+      - Security Tool Development
+      - Threat Analysis
+    
+  - Role: Full-Stack Developer
+    Focus:
+      - Secure Web Applications
+      - RESTful API Development
+      - Database Design & Optimization
+      - Cloud Integration
+    
+  - Role: SIEM Specialist
+    Focus:
+      - Log Analysis & Correlation
+      - Threat Detection Rules
+      - Security Incident Response
+      - Compliance Monitoring
+```
 
+---
 
 ## 🎯 Current Learning Path
 
@@ -236,7 +262,7 @@ graph LR
 
 <div align="center">
   
-  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ajinkyainfosec&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=00FF88&line=00FF88&point=FFFFFF)
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ajinkyainfosec&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=00FF88&line=00FF88&point=FFFFFF" alt="Activity Graph" />
 
 </div>
 
@@ -246,7 +272,7 @@ graph LR
 
 <div align="center">
   
-  ![Trophies](https://github-profile-trophy.vercel.app/?username=ajinkyainfosec&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)
+  <img src="https://github-profile-trophy.vercel.app/?username=ajinkyainfosec&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="Trophies" />
 
 </div>
 
@@ -342,13 +368,13 @@ Sunday       ██████░░░░░░░░░░░░░░░   2
 
 ### 💬 Quote of the Day
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Security%20is%20not%20a%20product,%20but%20a%20process&author=Bruce%20Schneier)
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 
 ---
 
 ### 📊 Profile Views
 
-![Profile Views](https://komarev.com/ghpvc/?username=ajinkyainfosec&color=00FF88&style=for-the-badge&label=PROFILE+VIEWS)
+<img src="https://komarev.com/ghpvc/?username=ajinkyainfosec&color=00FF88&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 
 ---
 

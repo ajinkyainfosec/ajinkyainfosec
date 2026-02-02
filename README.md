@@ -175,56 +175,12 @@ class AjinkyaBhosale:
 
 ---
 
-## 🏆 Achievements & Certifications
-
-<div align="center">
-
-| Certificate | Issuer | Year |
-|------------|--------|------|
-| 🎓 **Certified Ethical Hacker (CEH)** | EC-Council | 2024 |
-| 🎓 **CompTIA Security+** | CompTIA | 2024 |
-| 🎓 **Web Application Penetration Testing** | Various Platforms | 2024 |
-| 🎓 **Python for Cybersecurity** | Coursera | 2023 |
-| 🎓 **SIEM Implementation & Management** | Udemy | 2024 |
-| 🎓 **Network Security Fundamentals** | Cisco | 2023 |
-| 🎓 **Linux System Administration** | Linux Foundation | 2023 |
-| 🎓 **Cloud Security Basics** | AWS | 2024 |
-| 🎓 **OSINT Fundamentals** | SANS | 2024 |
-| 🎓 **Bug Bounty Hunting** | HackerOne | 2024 |
-
-**Total Certifications:** 10+
-
-</div>
 
 ---
 
-## 💼 Experience Highlights
 
-```yaml
-Experience:
-  - Role: Security Researcher
-    Focus:
-      - Penetration Testing
-      - Vulnerability Assessment
-      - Security Tool Development
-      - Threat Analysis
-    
-  - Role: Full-Stack Developer
-    Focus:
-      - Secure Web Applications
-      - RESTful API Development
-      - Database Design & Optimization
-      - Cloud Integration
-    
-  - Role: SIEM Specialist
-    Focus:
-      - Log Analysis & Correlation
-      - Threat Detection Rules
-      - Security Incident Response
-      - Compliance Monitoring
-```
 
----
+
 
 ## 🎯 Current Learning Path
 

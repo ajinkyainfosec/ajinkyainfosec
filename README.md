@@ -310,7 +310,7 @@ Sunday       ██████░░░░░░░░░░░░░░░   2
 - Wazuh SIEM Implementation
 
 ### 💻 Development Projects
-- [Portfolio Website](https://github.com/ajinkyainfosec/learnwithajinkya)
+- [Portfolio Website](https://learnwithajinkya.dev)
 - Android Food Delivery App
 - Web Application Security Scanner (Coming Soon)
 

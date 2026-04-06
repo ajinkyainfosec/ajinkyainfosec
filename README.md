@@ -28,6 +28,7 @@ class AjinkyaBhosale:
         
     def current_focus(self):
         return [
+            "Security Analysts"
             "Network Security",
             "Web Application Security",
             "OSINT & Threat Intelligence",

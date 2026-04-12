@@ -102,16 +102,27 @@ class AjinkyaBhosale:
 ## 🚀 Featured Projects
 
 ### 🔐 [Host-Based Intrusion Detection System (HIDS)](https://github.com/ajinkyainfosec/Host-based-intrusion-detection)
-> Python-based web application for monitoring system files, logs, and processes with **95% detection rate**
 
-**Tech Stack:** `Python` `Flask` `SHA-256` `Gmail API` `HTML/CSS`
+> Production-grade, real-time Host-Based Intrusion Detection System built from scratch 
+> with a **Rust agent**, **Python/FastAPI server**, and a **14-tab live SOC dashboard** — 
+> detecting attacks in **< 1 second** with **80% detection rate** across real attack scenarios.
+
+**Tech Stack:**
+`Rust` `Python` `FastAPI` `PostgreSQL` `Redis` `Docker` `Nginx` `JavaScript` `D3.js` `Chart.js` `WebSocket` `inotify` `MITRE ATT&CK` `Sigma Rules`
 
 **Key Features:**
-- ✅ Real-time process monitoring
-- ✅ File integrity checking using SHA-256
-- ✅ Log analysis for suspicious activities
-- ✅ Automated email alerts
-- ✅ Web dashboard for visualization
+- ✅ **Instant FIM** — Linux `inotify` kernel API detects file changes in **< 1 second** (vs 30s polling)
+- ✅ **17 Detection Rules** — Sigma rule format mapped to **8 MITRE ATT&CK tactics**
+- ✅ **Real-time Dashboard** — 14-tab SOC interface with live WebSocket alert streaming
+- ✅ **Multi-host Support** — Single server monitors unlimited Linux agents simultaneously
+- ✅ **Full Attack Coverage** — Detects SSH brute force, reverse shells, rootkits, privilege escalation, C2 beacons, cron persistence, and FIM violations
+- ✅ **Kanban Triage Board** — Manage alerts through NEW → INVESTIGATING → CONTAINED → CLOSED workflow
+- ✅ **One-Click Response** — Isolate host, kill process, block IP, disable user, quarantine file
+- ✅ **Kill Chain Timeline** — Visualize attack progression across all MITRE ATT&CK stages
+- ✅ **Threat Correlation Graph** — D3.js force-directed graph linking alerts, hosts, IPs, and tactics
+- ✅ **PDF Report Generator** — Export incident reports with full MITRE mapping and risk score
+- ✅ **Production Deployment** — 6-container Docker Compose stack with Nginx, Redis, Elasticsearch, Prometheus
+
 
 ---
 

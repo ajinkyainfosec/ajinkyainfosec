@@ -262,11 +262,11 @@ if __name__ == "__main__":
 
 ---
 
-## ◈ GITHUB TROPHIES
+## ◈ ACHIEVEMENTS
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ajinkyainfosec&theme=matrix&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="Trophies"/>
+![](https://github-readme-stats.vercel.app/api?username=ajinkyainfosec&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF88&icon_color=00FF88&text_color=C9D1D9&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 </div>
 

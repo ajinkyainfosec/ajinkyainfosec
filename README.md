@@ -266,7 +266,7 @@ if __name__ == "__main__":
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ajinkyainfosec&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=ajinkyainfosec&theme=matrix&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="Trophies"/>
 
 </div>
 

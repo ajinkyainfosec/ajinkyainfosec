@@ -1,365 +1,101 @@
-# 👋 Hello, I'm Ajinkya Bhosale
+# 👋 Hi, I'm Ajinkya Bhosale
 
-<div align="center">
-  
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Cybersecurity+Enthusiast;Penetration+Tester;Full-Stack+Developer;SIEM+Specialist;Security+Researcher)
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajinkya--bhosale)
-  [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/aj1nky0)
-  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Ajinkya_offical)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhosaleajinkya2205@gmail.com)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-00FF88?style=for-the-badge&logo=google-chrome&logoColor=black)](https://learnwithajinkya.dev)
+### 🔐 Cybersecurity Enthusiast | Aspiring SOC Analyst
 
-</div>
+🚀 Passionate about **Threat Detection, Security Monitoring, and Incident Response**  
+💻 Building real-world security projects (HIDS, SIEM, Honeypots)  
+📍 Pune, India  
 
 ---
 
 ## 🎯 About Me
 
-```python
-class AjinkyaBhosale:
-    def __init__(self):
-        self.username = "ajinkyainfosec"
-        self.role = "Cybersecurity Professional & Developer"
-        self.education = "B.E. Computer Science & Engineering"
-        self.institution = "Sinhgad Institute of Technology & Science"
-        self.location = "Pune, Maharashtra, India"
-        self.cgpa = 8.07
-        
-    def current_focus(self):
-        return [
-            "Security Analysts"
-            "Network Security",
-            "Web Application Security",
-            "OSINT & Threat Intelligence",
-            "SIEM Implementation",
-            "Secure Application Development"
-        ]
-    
-    def interests(self):
-        return [
-            "Penetration Testing",
-            "Vulnerability Assessment",
-            "Security Automation",
-            "CTF Challenges",
-            "Blue Team Operations"
-        ]
-```
+- 🎓 B.E. Computer Science (CGPA: 8.0+)  
+- 🛡️ Focused on **SOC Operations & Blue Teaming**  
+- 🔍 Hands-on with **SIEM, Log Analysis, Threat Detection**  
+- 🚀 Continuously learning cybersecurity through labs & projects  
 
 ---
 
-## 🛡️ Security Arsenal
+## 🛠️ Tech Stack
 
-### Cybersecurity Tools
-<div align="center">
+### 🔐 Cybersecurity Tools
+`Wazuh` `Wireshark` `Nmap` `Burp Suite` `Metasploit`
 
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white)
-![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
+### 💻 Programming
+`Python` `Bash` `JavaScript` `Rust`
 
-</div>
+### 🌐 Networking
+`TCP/IP` `DNS` `HTTP/HTTPS` `Firewalls` `VPN`
 
-### Programming Languages
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-</div>
-
-### Web Development
-<div align="center">
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-</div>
-
-### Databases & Cloud
-<div align="center">
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
+### 🧰 Systems & Tools
+`Linux` `Windows` `Docker` `Git` `VirtualBox`
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔐 [Host-Based Intrusion Detection System (HIDS)](https://github.com/ajinkyainfosec/Host-based-intrusion-detection)
+### 🔐 Host-Based Intrusion Detection System (HIDS)
+🔗 https://github.com/ajinkyainfosec/Host-based-intrusion-detection  
 
-> Production-grade, real-time Host-Based Intrusion Detection System built from scratch 
-> with a **Rust agent**, **Python/FastAPI server**, and a **14-tab live SOC dashboard** — 
-> detecting attacks in **< 1 second** with **80% detection rate** across real attack scenarios.
-
-**Tech Stack:**
-`Rust` `Python` `FastAPI` `PostgreSQL` `Redis` `Docker` `Nginx` `JavaScript` `D3.js` `Chart.js` `WebSocket` `inotify` `MITRE ATT&CK` `Sigma Rules`
-
-**Key Features:**
-- ✅ **Instant FIM** — Linux `inotify` kernel API detects file changes in **< 1 second** (vs 30s polling)
-- ✅ **17 Detection Rules** — Sigma rule format mapped to **8 MITRE ATT&CK tactics**
-- ✅ **Real-time Dashboard** — 14-tab SOC interface with live WebSocket alert streaming
-- ✅ **Multi-host Support** — Single server monitors unlimited Linux agents simultaneously
-- ✅ **Full Attack Coverage** — Detects SSH brute force, reverse shells, rootkits, privilege escalation, C2 beacons, cron persistence, and FIM violations
-- ✅ **Kanban Triage Board** — Manage alerts through NEW → INVESTIGATING → CONTAINED → CLOSED workflow
-- ✅ **One-Click Response** — Isolate host, kill process, block IP, disable user, quarantine file
-- ✅ **Kill Chain Timeline** — Visualize attack progression across all MITRE ATT&CK stages
-- ✅ **Threat Correlation Graph** — D3.js force-directed graph linking alerts, hosts, IPs, and tactics
-- ✅ **PDF Report Generator** — Export incident reports with full MITRE mapping and risk score
-- ✅ **Production Deployment** — 6-container Docker Compose stack with Nginx, Redis, Elasticsearch, Prometheus
-
+- Built full-stack HIDS using **Rust + FastAPI + PostgreSQL + Docker**
+- Real-time **file integrity monitoring (<1s detection)**
+- Implemented **Sigma rules mapped to MITRE ATT&CK**
+- Achieved **80% detection rate across attack scenarios**
+- Designed live SOC dashboard with alert triage  
 
 ---
 
-### 🍯 [Python-Based Honeypot](https://github.com/ajinkyainfosec/basic-honeypot)
-> Lightweight honeypot simulating multiple service ports to capture attacker behavior
+### 📊 Wazuh SIEM Home Lab
 
-**Tech Stack:** `Python` `Socket Programming` `Multithreading` `JSON/CSV`
-
-**Key Features:**
-- ✅ Multi-port simulation (SSH, FTP, HTTP, HTTPS)
-- ✅ IP & behavior tracking
-- ✅ Structured logging (JSON/CSV)
-- ✅ Real server response mimicry
+- Configured **Wazuh SIEM** for log monitoring and alerting  
+- Analyzed authentication logs, system events, and threats  
+- Performed **incident detection & basic threat hunting**  
 
 ---
 
-### 📊 [Wazuh SIEM & Vulnerability Monitoring](https://github.com/ajinkyainfosec)
-> Enterprise-grade SIEM solution for comprehensive threat detection
+### 🍯 Python Honeypot
+🔗 https://github.com/ajinkyainfosec/basic-honeypot  
 
-**Tech Stack:** `Linux` `Wazuh` `Elasticsearch` `Log Analysis`
-
-**Key Features:**
-- ✅ Centralized log collection
-- ✅ File integrity monitoring
-- ✅ Vulnerability detection
-- ✅ Real-time security alerts
+- Simulated SSH, FTP, HTTP services  
+- Captured attacker IPs & behavior  
+- Logged structured data for analysis  
 
 ---
 
-### 🔑 [Basic Keylogger](https://github.com/ajinkyainfosec/keylogger)
-> Educational keylogger built for ethical research purposes
+## 📜 Certifications
 
-**Tech Stack:** `Python`
-
-**Purpose:** Understanding keystroke capture mechanisms for defensive security
-
----
-
-### 🍔 Android Food Delivery App
-> Full-featured mobile application with real-time order tracking
-
-**Tech Stack:** `Java` `Android Studio` `Firebase` `XML`
-
-**Key Features:**
-- ✅ Firebase authentication
-- ✅ Real-time order tracking
-- ✅ Intuitive UI/UX design
-- ✅ Cloud database integration
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=ajinkyainfosec&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF88&icon_color=00FF88&text_color=FFFFFF" alt="GitHub Stats" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajinkyainfosec&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF88&text_color=FFFFFF" alt="Top Languages" />
-  
-  <img src="https://streak-stats.demolab.com/?user=ajinkyainfosec&theme=radical&hide_border=true&background=0D1117&ring=00FF88&fire=00FF88&currStreakLabel=00FF88" alt="GitHub Streak" />
-
-</div>
-
----
-
-
----
-
-
-
-
-
-## 🎯 Current Learning Path
-
-<div align="center">
-
-```mermaid
-graph LR
-    A[Network Security] --> B[Advanced Pentesting]
-    B --> C[Exploit Development]
-    C --> D[Malware Analysis]
-    D --> E[Threat Hunting]
-    E --> F[Security Architecture]
-    
-    style A fill:#00FF88,stroke:#00FF88,color:#000
-    style B fill:#00FF88,stroke:#00FF88,color:#000
-    style C fill:#00FF88,stroke:#00FF88,color:#000
-    style D fill:#39FF14,stroke:#39FF14,color:#000
-    style E fill:#0FF,stroke:#0FF,color:#000
-    style F fill:#0FF,stroke:#0FF,color:#000
-```
-
-</div>
-
-**Currently Exploring:**
-- 🔍 Advanced Web Application Security
-- 🛡️ Cloud Security (AWS, Azure)
-- 🤖 AI/ML for Cybersecurity
-- 📱 Mobile Application Security
-- 🌐 IoT Security
-- ⛓️ Blockchain Security
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ajinkyainfosec&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=00FF88&line=00FF88&point=FFFFFF" alt="Activity Graph" />
-
-</div>
-
----
-
-## 🎖️ GitHub Trophies
-
-<div align="center">
-  
-  <img src="https://github-profile-trophy.vercel.app/?username=ajinkyainfosec&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="Trophies" />
-
-</div>
-
----
-
-## 💡 Fun Facts About Me
-
-<div align="center">
-
-| 🎯 | Fact |
-|---|---|
-| 🔐 | I can crack basic passwords faster than I can decide what to eat |
-| 💻 | My IDE theme is darker than my coffee |
-| 🐛 | I've found more bugs than an entomologist |
-| 🌙 | Best code is written at 3 AM (allegedly) |
-| ☕ | Coffee-to-code ratio: 1:100 lines |
-| 🎮 | CTF player - where breaking things is encouraged |
-
-</div>
+- Cyber Security 101 – TryHackMe  
+- Certified in Cybersecurity (CC) – ISC2 (Training Completed)  
+- Microsoft Azure Fundamentals  
+- Foundations of Cybersecurity  
+- Demystifying Networks  
 
 ---
 
 ## 📫 Connect With Me
 
-<div align="center">
-
-### Let's collaborate on cybersecurity projects! 🤝
-
-[![Email](https://img.shields.io/badge/Email-bhosaleajinkya2205@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhosaleajinkya2205@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ajinkya_Bhosale-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajinkya--bhosale)
-[![Twitter](https://img.shields.io/badge/Twitter-@Ajinkya__offical-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Ajinkya_offical)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_My_Website-00FF88?style=for-the-badge&logo=google-chrome&logoColor=black)](https://ajinkyabhosale.com)
-
-### 📍 Location: Pune, Maharashtra, India
-
-</div>
+- 📧 Email: bhosaleajinkya2205@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/ajinkya--bhosale  
+- 🌐 Portfolio: https://learnwithajinkya.dev  
 
 ---
 
-## 📝 Latest Blog Posts
+## ⚡ GitHub Stats
 
-<!-- BLOG-POST-LIST:START -->
-- 🔐 [Building a Custom Honeypot: Lessons Learned](https://your-blog.com)
-- 🛡️ [SIEM Implementation Best Practices](https://your-blog.com)
-- 🔍 [Web Application Security: Common Vulnerabilities](https://your-blog.com)
-- 💻 [Python for Cybersecurity Automation](https://your-blog.com)
-<!-- BLOG-POST-LIST:END -->
+![Ajinkya's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajinkyainfosec&show_icons=true&theme=radical)
 
 ---
 
-## 🎨 Contribution Insights
+## 🔥 Current Focus
 
-```text
-🌞 Morning    ████████░░░░░░░░░░░░░   35%
-🌆 Daytime    ████████████░░░░░░░░░   45%
-🌃 Evening    ████████░░░░░░░░░░░░░   15%
-🌙 Night      █████░░░░░░░░░░░░░░░░   05%
-```
-
-```text
-Monday       ████████████░░░░░░░░░   55%
-Tuesday      ███████████░░░░░░░░░░   50%
-Wednesday    ████████████░░░░░░░░░   60%
-Thursday     ███████████░░░░░░░░░░   50%
-Friday       ██████████░░░░░░░░░░░   45%
-Saturday     ████████░░░░░░░░░░░░░   35%
-Sunday       ██████░░░░░░░░░░░░░░░   25%
-```
+- 🛡️ SOC Analyst Skills  
+- 📊 SIEM & Threat Detection  
+- 🔍 Incident Response & Log Analysis  
+- ☁️ Cloud Security  
 
 ---
 
-## 🔥 Projects By Category
+## 💡 Quote
 
-### 🛡️ Cybersecurity Projects
-- [Host-Based Intrusion Detection System](https://github.com/ajinkyainfosec/Host-based-intrusion-detection)
-- [Python-Based Honeypot](https://github.com/ajinkyainfosec/basic-honeypot)
-- [Keylogger (Educational)](https://github.com/ajinkyainfosec/keylogger)
-- Wazuh SIEM Implementation
-
-### 💻 Development Projects
-- [Portfolio Website](https://learnwithajinkya.dev)
-- Android Food Delivery App
-- Web Application Security Scanner (Coming Soon)
-
-### 📚 Learning & Research
-- Security Tool Development
-- Penetration Testing Scripts
-- Automation Scripts for Security Tasks
-
----
-
-<div align="center">
-
-### 💬 Quote of the Day
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-
----
-
-### 📊 Profile Views
-
-<img src="https://komarev.com/ghpvc/?username=ajinkyainfosec&color=00FF88&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-
----
-
-### ⚡ Quick Stats
-
-![Code Time](https://img.shields.io/badge/Code%20Time-1%2C337%20hrs%2042%20mins-00FF88?style=for-the-badge&logo=code&logoColor=white)
-![Lines of Code](https://img.shields.io/badge/Lines%20of%20Code-50K+-00FF88?style=for-the-badge&logo=code&logoColor=white)
-
----
-
-**🔒 "Hack the Planet, Secure the Future"** 🚀
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF88&height=100&section=footer" width="100%"/>
-</div>
+> "Detect. Analyze. Respond. Repeat." 🔐

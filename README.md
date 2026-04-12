@@ -31,7 +31,7 @@ I'm a **Cybersecurity Professional and Full-Stack Developer** based in Pune, Ind
 
 My work sits at the intersection of **offense and defense** — I study how attackers think, then build systems that stop them. From deploying production-grade intrusion detection systems to competing in CTF challenges, I'm driven by one goal: understanding and eliminating risk before adversaries exploit it.
 
-- 🎯 **Focus:** Penetration Testing · SIEM · Threat Detection · Blue Team Operations
+- 🎯 **Focus:** Blue Team Operations ·Penetration Testing · SIEM · Threat Detection 
 - 🔭 **Exploring:** Cloud Security (AWS/Azure) · AI-driven Threat Detection · Mobile Pentesting
 - 🏆 **Active on TryHackMe** — consistently solving real-world attack/defense scenarios
 - 🤝 **Open to:** Collaborations · Bug Bounty · Security Research · CTF Teams

@@ -183,6 +183,13 @@ if __name__ == "__main__":
 `Python` `Socket Programming` `Multithreading` `JSON/CSV`
 
 ---
+## ◈ GITHUB TROPHIES
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ajinkyainfosec&theme=onedark&no-frame=false&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
 
 ## ◈ GITHUB ANALYTICS
 

@@ -220,21 +220,20 @@ Built for ethical research and defensive awareness. Demonstrates keystroke captu
 </div>
 
 ---
-
 ## Learning Roadmap
 
 ```
 SKILL                        PROGRESS              STATUS
 ──────────────────────────────────────────────────────────────────────
-Network Security          ████████████████████   Mastered
-Web App Security          ████████████████████   Mastered
-SIEM & SOC Operations     ██████████████████░░   Advanced
-Penetration Testing       ████████████████░░░░   Advanced
-Exploit Development       ████████████░░░░░░░░   In Progress  ←
-Malware Analysis          ████████░░░░░░░░░░░░   In Progress  ←
-Cloud Security (AWS/GCP)  ██████░░░░░░░░░░░░░░   Exploring
-Mobile App Pentesting     ████░░░░░░░░░░░░░░░░   Planned
-IoT / Firmware Analysis   ███░░░░░░░░░░░░░░░░░   Planned
+Network Security          ████████████░░░░░░░░   Intermediate
+Web App Security          ████████████░░░░░░░░   Intermediate
+SIEM & SOC Operations     ██████████░░░░░░░░░░   Learning
+Penetration Testing       ██████████░░░░░░░░░░   Learning      ←
+Exploit Development       ██████░░░░░░░░░░░░░░   Beginner
+Malware Analysis          █████░░░░░░░░░░░░░░░   Beginner
+Cloud Security (AWS/GCP)  ████░░░░░░░░░░░░░░░░   Exploring
+Mobile App Pentesting     ███░░░░░░░░░░░░░░░░░   Planned
+IoT / Firmware Analysis   ██░░░░░░░░░░░░░░░░░░   Planned
 Security Architecture     ██░░░░░░░░░░░░░░░░░░   Planned
 ```
 
